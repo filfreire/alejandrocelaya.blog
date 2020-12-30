@@ -4,6 +4,6 @@ module.exports = {
   CARBON_SERVE: 'CK7IVK3W',
   CARBON_PLACEMENT: 'blogalejandrocelayacom',
   SITE_URL: 'https://alejandrocelaya.blog',
-  SITE_TITLE: 'Alejandro Celaya | Blog',
+  SITE_TITLE: 'Alexandre Celaia | Blog',
   SITE_SUBTITLE: 'Software development, agile methodologies and open source projects'
 };
